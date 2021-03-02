@@ -1,0 +1,3 @@
+csv檔: 根據 percentage of cluster expressing gene, percentage of all other cells expressing gene, p value 設定閾值篩選基因
+xlsx檔: 根據 Score, avgDiff 設定閾值篩選基因
+
